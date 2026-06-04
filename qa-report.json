@@ -1,0 +1,993 @@
+{
+  "checked": 46,
+  "failures": [
+    {
+      "path": "/",
+      "url": "http://localhost:3000/",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/marketing",
+      "url": "http://localhost:3000/marketing",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/programming",
+      "url": "http://localhost:3000/programming",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/education",
+      "url": "http://localhost:3000/education",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/real-estate",
+      "url": "http://localhost:3000/real-estate",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/fitness",
+      "url": "http://localhost:3000/fitness",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/sales",
+      "url": "http://localhost:3000/sales",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/e-commerce",
+      "url": "http://localhost:3000/e-commerce",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/content-creation",
+      "url": "http://localhost:3000/content-creation",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/productivity",
+      "url": "http://localhost:3000/productivity",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/business",
+      "url": "http://localhost:3000/business",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": []
+    },
+    {
+      "path": "/industry/restaurants",
+      "url": "http://localhost:3000/industry/restaurants",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/restaurants/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/restaurants/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/restaurants/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/restaurants/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/gyms",
+      "url": "http://localhost:3000/industry/gyms",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/gyms/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/gyms/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/gyms/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/gyms/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/real-estate",
+      "url": "http://localhost:3000/industry/real-estate",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/real-estate/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/real-estate/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/real-estate/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/real-estate/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/dentists",
+      "url": "http://localhost:3000/industry/dentists",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/dentists/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/dentists/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/dentists/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/dentists/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/lawyers",
+      "url": "http://localhost:3000/industry/lawyers",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/lawyers/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/lawyers/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/lawyers/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/lawyers/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/coaches",
+      "url": "http://localhost:3000/industry/coaches",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/coaches/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/coaches/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/coaches/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/coaches/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/ecommerce",
+      "url": "http://localhost:3000/industry/ecommerce",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/ecommerce/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/ecommerce/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/ecommerce/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/ecommerce/page/5",
+          "status": 404
+        },
+        {
+          "link": "/industry/ecommerce/page/6",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/saas",
+      "url": "http://localhost:3000/industry/saas",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/saas/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/saas/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/saas/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/saas/page/5",
+          "status": 404
+        },
+        {
+          "link": "/industry/saas/page/6",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/agencies",
+      "url": "http://localhost:3000/industry/agencies",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/agencies/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/agencies/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/agencies/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/agencies/page/5",
+          "status": 404
+        },
+        {
+          "link": "/industry/agencies/page/6",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/education",
+      "url": "http://localhost:3000/industry/education",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/education/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/education/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/education/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/education/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/dentistry",
+      "url": "http://localhost:3000/industry/dentistry",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/dentistry/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/dentistry/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/dentistry/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/dentistry/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/healthcare",
+      "url": "http://localhost:3000/industry/healthcare",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/healthcare/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/healthcare/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/healthcare/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/healthcare/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/retail",
+      "url": "http://localhost:3000/industry/retail",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/retail/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/retail/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/retail/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/retail/page/5",
+          "status": 404
+        },
+        {
+          "link": "/industry/retail/page/6",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/hospitality",
+      "url": "http://localhost:3000/industry/hospitality",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/hospitality/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/hospitality/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/hospitality/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/hospitality/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/professional-services",
+      "url": "http://localhost:3000/industry/professional-services",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/professional-services/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/professional-services/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/professional-services/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/professional-services/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/consulting",
+      "url": "http://localhost:3000/industry/consulting",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/consulting/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/consulting/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/consulting/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/consulting/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/software",
+      "url": "http://localhost:3000/industry/software",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/software/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/software/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/software/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/software/page/5",
+          "status": 404
+        },
+        {
+          "link": "/industry/software/page/6",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/agency",
+      "url": "http://localhost:3000/industry/agency",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/agency/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/agency/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/agency/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/agency/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/startups",
+      "url": "http://localhost:3000/industry/startups",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/startups/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/startups/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/startups/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/startups/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/industry/freelance",
+      "url": "http://localhost:3000/industry/freelance",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/industry/freelance/page/2",
+          "status": 404
+        },
+        {
+          "link": "/industry/freelance/page/3",
+          "status": 404
+        },
+        {
+          "link": "/industry/freelance/page/4",
+          "status": 404
+        },
+        {
+          "link": "/industry/freelance/page/5",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/use-case/lead-generation",
+      "url": "http://localhost:3000/use-case/lead-generation",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/use-case/lead-generation/page/2",
+          "status": 404
+        },
+        {
+          "link": "/use-case/lead-generation/page/3",
+          "status": 404
+        },
+        {
+          "link": "/use-case/lead-generation/page/4",
+          "status": 404
+        },
+        {
+          "link": "/use-case/lead-generation/page/5",
+          "status": 404
+        },
+        {
+          "link": "/use-case/lead-generation/page/6",
+          "status": 404
+        },
+        {
+          "link": "/use-case/lead-generation/page/7",
+          "status": 404
+        },
+        {
+          "link": "/use-case/lead-generation/page/8",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/use-case/email-marketing",
+      "url": "http://localhost:3000/use-case/email-marketing",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/use-case/email-marketing/page/2",
+          "status": 404
+        },
+        {
+          "link": "/use-case/email-marketing/page/3",
+          "status": 404
+        },
+        {
+          "link": "/use-case/email-marketing/page/4",
+          "status": 404
+        },
+        {
+          "link": "/use-case/email-marketing/page/5",
+          "status": 404
+        },
+        {
+          "link": "/use-case/email-marketing/page/6",
+          "status": 404
+        },
+        {
+          "link": "/use-case/email-marketing/page/7",
+          "status": 404
+        },
+        {
+          "link": "/use-case/email-marketing/page/8",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/use-case/social-media",
+      "url": "http://localhost:3000/use-case/social-media",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/use-case/social-media/page/2",
+          "status": 404
+        },
+        {
+          "link": "/use-case/social-media/page/3",
+          "status": 404
+        },
+        {
+          "link": "/use-case/social-media/page/4",
+          "status": 404
+        },
+        {
+          "link": "/use-case/social-media/page/5",
+          "status": 404
+        },
+        {
+          "link": "/use-case/social-media/page/6",
+          "status": 404
+        },
+        {
+          "link": "/use-case/social-media/page/7",
+          "status": 404
+        },
+        {
+          "link": "/use-case/social-media/page/8",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/use-case/content-writing",
+      "url": "http://localhost:3000/use-case/content-writing",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/use-case/content-writing/page/2",
+          "status": 404
+        },
+        {
+          "link": "/use-case/content-writing/page/3",
+          "status": 404
+        },
+        {
+          "link": "/use-case/content-writing/page/4",
+          "status": 404
+        },
+        {
+          "link": "/use-case/content-writing/page/5",
+          "status": 404
+        },
+        {
+          "link": "/use-case/content-writing/page/6",
+          "status": 404
+        },
+        {
+          "link": "/use-case/content-writing/page/7",
+          "status": 404
+        },
+        {
+          "link": "/use-case/content-writing/page/8",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/use-case/customer-support",
+      "url": "http://localhost:3000/use-case/customer-support",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/use-case/customer-support/page/2",
+          "status": 404
+        },
+        {
+          "link": "/use-case/customer-support/page/3",
+          "status": 404
+        },
+        {
+          "link": "/use-case/customer-support/page/4",
+          "status": 404
+        },
+        {
+          "link": "/use-case/customer-support/page/5",
+          "status": 404
+        },
+        {
+          "link": "/use-case/customer-support/page/6",
+          "status": 404
+        },
+        {
+          "link": "/use-case/customer-support/page/7",
+          "status": 404
+        },
+        {
+          "link": "/use-case/customer-support/page/8",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/use-case/sales-outreach",
+      "url": "http://localhost:3000/use-case/sales-outreach",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/use-case/sales-outreach/page/2",
+          "status": 404
+        },
+        {
+          "link": "/use-case/sales-outreach/page/3",
+          "status": 404
+        },
+        {
+          "link": "/use-case/sales-outreach/page/4",
+          "status": 404
+        },
+        {
+          "link": "/use-case/sales-outreach/page/5",
+          "status": 404
+        },
+        {
+          "link": "/use-case/sales-outreach/page/6",
+          "status": 404
+        },
+        {
+          "link": "/use-case/sales-outreach/page/7",
+          "status": 404
+        },
+        {
+          "link": "/use-case/sales-outreach/page/8",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/use-case/seo",
+      "url": "http://localhost:3000/use-case/seo",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/use-case/seo/page/2",
+          "status": 404
+        },
+        {
+          "link": "/use-case/seo/page/3",
+          "status": 404
+        },
+        {
+          "link": "/use-case/seo/page/4",
+          "status": 404
+        },
+        {
+          "link": "/use-case/seo/page/5",
+          "status": 404
+        },
+        {
+          "link": "/use-case/seo/page/6",
+          "status": 404
+        },
+        {
+          "link": "/use-case/seo/page/7",
+          "status": 404
+        },
+        {
+          "link": "/use-case/seo/page/8",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/use-case/copywriting",
+      "url": "http://localhost:3000/use-case/copywriting",
+      "status": 200,
+      "errors": [
+        "runtime error in body"
+      ],
+      "links": [
+        {
+          "link": "/use-case/copywriting/page/2",
+          "status": 404
+        },
+        {
+          "link": "/use-case/copywriting/page/3",
+          "status": 404
+        },
+        {
+          "link": "/use-case/copywriting/page/4",
+          "status": 404
+        },
+        {
+          "link": "/use-case/copywriting/page/5",
+          "status": 404
+        },
+        {
+          "link": "/use-case/copywriting/page/6",
+          "status": 404
+        },
+        {
+          "link": "/use-case/copywriting/page/7",
+          "status": 404
+        },
+        {
+          "link": "/use-case/copywriting/page/8",
+          "status": 404
+        }
+      ]
+    },
+    {
+      "path": "/prompts/lawyers-lead-generation-1185-prompt",
+      "url": "https://promptly.example.com/prompts/lawyers-lead-generation-1185-prompt",
+      "status": "error",
+      "errors": [
+        "TypeError: fetch failed"
+      ],
+      "links": []
+    },
+    {
+      "path": "/prompts/ecommerce-social-media-187-prompt",
+      "url": "https://promptly.example.com/prompts/ecommerce-social-media-187-prompt",
+      "status": "error",
+      "errors": [
+        "TypeError: fetch failed"
+      ],
+      "links": []
+    },
+    {
+      "path": "/prompts/healthcare-copywriting-872-prompt",
+      "url": "https://promptly.example.com/prompts/healthcare-copywriting-872-prompt",
+      "status": "error",
+      "errors": [
+        "TypeError: fetch failed"
+      ],
+      "links": []
+    },
+    {
+      "path": "/prompts/education-email-marketing-930-prompt",
+      "url": "https://promptly.example.com/prompts/education-email-marketing-930-prompt",
+      "status": "error",
+      "errors": [
+        "TypeError: fetch failed"
+      ],
+      "links": []
+    },
+    {
+      "path": "/prompts/hospitality-email-marketing-1114-prompt",
+      "url": "https://promptly.example.com/prompts/hospitality-email-marketing-1114-prompt",
+      "status": "error",
+      "errors": [
+        "TypeError: fetch failed"
+      ],
+      "links": []
+    }
+  ]
+}
